@@ -330,3 +330,5 @@ public class Rules {
 		this.eat(fromMovBlock, toCheese);
 	}
 }
+
+// specific
